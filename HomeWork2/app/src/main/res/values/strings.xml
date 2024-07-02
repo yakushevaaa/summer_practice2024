@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeWork2</string>
+    <string name="settings_screen">Settings</string>
+    <string name="search_screen">Search</string>
+    <string name="profile_screen">Profile</string>
+    <string name="home_screen">Home</string>
+    <string name="chats_screen">Chats</string>
+    <string name="main_screen">Main</string>
+
+</resources>
