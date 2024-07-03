@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.navigation.fragment.findNavController
 import ru.itis.homework2.databinding.FragmentChatsBinding
+
 class ChatsFragment : Fragment(R.layout.fragment_chats) {
     private var binding: FragmentChatsBinding? = null
 
